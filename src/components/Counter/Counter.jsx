@@ -1,6 +1,6 @@
-import React from 'react';
+import React, {Component} from "react";
 
-class Counter extends React.Component {
+class Counter extends Component {
     static defaultProps = {
         initialValue: 0,
     };
@@ -22,9 +22,10 @@ class Counter extends React.Component {
     };
 
     render() {
+        const { value } = this.state;
         return (
             <div className="counter">
-            <span>{this.state.value}</span>
+            <span>{value}</span>
 
             <div className="counter__controls">
                 <button type="button" onClick={this.handleIncrement}>Plus 1</button>
