@@ -26,9 +26,9 @@ render() {
   const quantityCompletedTodos = todos.filter(todo => todo.completed).length;
   return (
     <>
-      {/* <Counter /> */}
-      {/* <Dropdown /> */}
-      {/* <ColorPicker options={colorPickerOptions()}/> */}
+      <Counter />
+      <Dropdown />
+      <ColorPicker options={colorPickerOptions()}/>
       <>
         <div>
           <p>Total quantity todos: {quantityTodos}</p>
