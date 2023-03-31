@@ -11,6 +11,11 @@
     border: 1px solid black;
 }
 
+.TodoList__item--completed {
+    background-color: darkseagreen;
+    opacity: 60%;
+}
+
 .TodoList__text {
     margin-top: 0;
     margin-bottom: 0;

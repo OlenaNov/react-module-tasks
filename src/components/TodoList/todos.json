@@ -1,6 +1,6 @@
 [
     {"id": "id-1", "text": "Learn the basics JavaScript", "completed": false},
-    {"id": "id-2", "text": "Learn the React Router", "completed": false},
+    {"id": "id-2", "text": "Learn the React Router", "completed": true},
     {"id": "id-3", "text": "Learn Redux", "completed": false},
     {"id": "id-4", "text": "To find a job", "completed": true}
   ]

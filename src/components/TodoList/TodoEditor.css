@@ -1,0 +1,8 @@
+
+.TodoEditorForm {
+    display: flex;
+    flex-direction: column;
+
+    padding-inline-start: 44px;
+    width: 390px;
+}
