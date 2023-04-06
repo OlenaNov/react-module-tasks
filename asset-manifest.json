@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/react-module-tasks/static/css/main.49e891eb.css",
-    "main.js": "/react-module-tasks/static/js/main.ab96f6ed.js",
+    "main.css": "/react-module-tasks/static/css/main.0ba1567f.css",
+    "main.js": "/react-module-tasks/static/js/main.ea5562d4.js",
+    "static/media/plus-321.svg": "/react-module-tasks/static/media/plus-321.5bc1e53fb9705e6a06315985a97ecae2.svg",
     "index.html": "/react-module-tasks/index.html",
-    "main.49e891eb.css.map": "/react-module-tasks/static/css/main.49e891eb.css.map",
-    "main.ab96f6ed.js.map": "/react-module-tasks/static/js/main.ab96f6ed.js.map"
+    "static/media/trashcan_delete_remove_trash_icon_178327.svg": "/react-module-tasks/static/media/trashcan_delete_remove_trash_icon_178327.56bfac91b9342ffc9e1c506b333f1790.svg",
+    "main.0ba1567f.css.map": "/react-module-tasks/static/css/main.0ba1567f.css.map",
+    "main.ea5562d4.js.map": "/react-module-tasks/static/js/main.ea5562d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.49e891eb.css",
-    "static/js/main.ab96f6ed.js"
+    "static/css/main.0ba1567f.css",
+    "static/js/main.ea5562d4.js"
   ]
 }
