@@ -1,0 +1,14 @@
+[
+    {
+        "label": "Tab-1",
+        "content": "Create buttons to open specific tab content. All <div> elements with class=tabcontent are hidden by default (with CSS & JS). When the user clicks on a button - it will open the tab content that matches this button."
+    },
+    {
+        "label": "Tab-2",
+        "content": "To open a specific tab on page load, use JavaScript to click on the specified tab button"
+    },
+    {
+        "label": "Tab-3",
+        "content": "If you want to close a specific tab, use JavaScript to hide the tab with a click of a button"
+    }
+]

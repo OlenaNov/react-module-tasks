@@ -35,7 +35,7 @@ export class TodoEditor extends Component {
                 value={this.state.message}
                 onChange={this.handleChange}
                 ></textarea>
-                <button type="submit">Save</button>
+                <button type="submit" className="TodoEditorForm__button">Save</button>
             </form>
         )
     }
